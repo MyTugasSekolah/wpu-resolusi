@@ -4,10 +4,9 @@ RENCANA KONTEN WPU
  * ES6
  * Framework Javascript
    ^ Vue 
-   ^ Reach
 - Struktur Data Dasar
 - PHP Framework
-^ laravel
+  ^ laravel
 - Interview
 - Vlogs
 - python
